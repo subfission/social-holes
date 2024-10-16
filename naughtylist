@@ -1,0 +1,32 @@
+# Simple DNS list for blocking dangerous Chinese social media
+# License: GPLv3
+# TikTok & Bytedance Agressive Filtering
+
+(\.|^)(tt|byte)oversea(\..+)?
+(\.|^)bytedance(\..+)?
+(\.|^)byteeffecttos-g(\..+)?
+(\.|^)byteglb(\..+)?
+(\.|^)byteimg(\..+)?
+(\.|^)byteintl(\..+)?
+(\.|^)byteintlapi(\..+)?
+(\.|^)bytetcdn(\..+)?
+(\.|^)ibytedtos(\..+)?
+(\.|^)ibyteimg(\..+)?
+(\.|^)ipstatp(\..+)?
+(\.|^)isnssdk(\..+)?
+(\.|^)muscdn(\..+)?
+(\.|^)musemuse(\..+)?
+(\.|^)musical.ly(\..+)?
+(\.|^)musically-alternate(\..+)?
+(\.|^)musically\.app
+(\.|^)opaltelecom(\..+)?
+(\.|^)pstatp\.com$
+(\.|^)sgsnssdk\.com$
+(\.|^)snssdk\.com$
+(\.|^)tiktok(\..+)?
+(\.|^)tlivecdn(\..+)?
+(\.|^)ttapis(\..+)?
+(\.|^)ttdns2(\..+)?
+(\.|^)ttlivecdn(\..+)
+(\.|^)ttlstatic(\..+)?
+(\.|^)ttwstatic(\..+)?
